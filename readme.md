@@ -73,9 +73,12 @@ A localized technique for enhancing image contrast.
 ---
 
 
-### Contributors Table:
+### Contributors:
 
 | **Name**           | **ID**              |
 |---------------------|-----------------------|
 | Joseph Tackie          | 10982383            |
 | Adjei Daniel Junior         | 10970871     |
+| Essilfie Prince Bondzie      | 10957300|
+| Frank Owusi Appiah       | 10990607|
+| Luke Boateng Agyenim       | 10964715|
