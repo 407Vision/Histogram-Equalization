@@ -74,16 +74,8 @@ A localized technique for enhancing image contrast.
 
 
 ### Contributors Table:
-    | **Name**            | **ID**                |
-    |---------------------|-----------------------|
-    | Joseph Tackie       | 10982383              |
-    | Adjei Daniel Junior | 10970871              |
 
-
-
-| **Name**           | **Role**              |
+| **Name**           | **ID**              |
 |---------------------|-----------------------|
-| John Doe           | Team Lead            |
-| Jane Smith         | Research Analyst     |
-| Michael Brown      | Implementation Expert|
-| Sarah Wilson       | Documentation Manager|
+| Joseph Tackie          | 10982383            |
+| Adjei Daniel Junior         | 10970871     |
