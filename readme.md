@@ -72,3 +72,7 @@ A localized technique for enhancing image contrast.
 
 ---
 
+
+**Contributors Table**:
+   - Joseph Tackie | 10982383
+   - Ben
