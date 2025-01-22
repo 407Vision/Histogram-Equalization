@@ -80,5 +80,5 @@ A localized technique for enhancing image contrast.
 | Joseph Tackie          | 10982383            |
 | Adjei Daniel Junior         | 10970871     |
 | Essilfie Prince Bondzie      | 10957300|
-| Frank Owusi Appiah       | 10990607|
+| Frank Owusu Appiah       | 10990607|
 | Luke Boateng Agyenim       | 10964715|
