@@ -82,3 +82,4 @@ A localized technique for enhancing image contrast.
 | Essilfie Prince Bondzie      | 10957300|
 | Frank Owusu Appiah       | 10990607|
 | Luke Boateng Agyenim       | 10964715|
+| Osborn Mensah       | 10966038   |
